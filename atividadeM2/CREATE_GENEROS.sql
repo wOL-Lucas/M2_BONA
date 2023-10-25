@@ -1,0 +1,5 @@
+CREATE TABLE `generos` (
+`GeneroID` INT AUTO_INCREMENT,
+`NomeGenero` VARCHAR(50) NOT NULL,
+PRIMARY KEY(`GeneroID`) USING BTREE   
+)

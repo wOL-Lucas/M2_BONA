@@ -1,4 +1,4 @@
 ALTER TABLE filmes
 ADD CONSTRAINT fk_GeneroID
 FOREIGN KEY (`GeneroID`)
-REFERENCES generos(`GeneroID`) 
+REFERENCES generos(`GeneroID`);

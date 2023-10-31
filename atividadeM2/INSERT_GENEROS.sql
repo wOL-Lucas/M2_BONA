@@ -1,4 +1,2 @@
-INSERT INTO `generos` (
-`NomeGenero`
-)
-VALUES('Crime'),('Ficção Científica'),('Terror')
+INSERT INTO `generos` (`NomeGenero`)
+VALUES ('Crime'), ('Ficção Científica'), ('Terror');

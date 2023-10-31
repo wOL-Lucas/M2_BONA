@@ -1,2 +1,2 @@
 ALTER TABLE filmes
-DROP column DuracaoMinutos
+DROP column DuracaoMinutos;
